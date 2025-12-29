@@ -18,6 +18,7 @@ An explainable content-based recommendation system that suggests similar video g
 ```bash
 pip install pandas scikit-learn streamlit
 streamlit run app.py
+```
 
 ## 📸 Example Output
 ![Example output](assets/example.png)
